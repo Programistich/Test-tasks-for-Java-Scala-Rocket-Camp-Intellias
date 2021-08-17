@@ -3,7 +3,8 @@
 ### Me
 * Name: Dzhos Oleksii
 * Resume: [Link](https://docs.google.com/document/d/11rwk4GX7Hk_KxSSVhoITFynw3j7Io9Zecr3erBNIN0E/edit?usp=sharing)
-* Jar file(result): [Link]()
+* For start example in Task `mvn exec: java`
+* For test: `mvn test` 
 
 ### Test project requirements
 
